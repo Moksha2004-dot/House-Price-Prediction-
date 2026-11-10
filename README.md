@@ -58,9 +58,6 @@ During data cleaning, we:
 
 After cleaning, the dataset contained 21,596 records.
 
-### House Price Distribution
-
-![Distribution of House Prices](./Screenshots/01_data_exploration.png..png)
 
 ## Feature Engineering and Selection
 
@@ -76,10 +73,6 @@ These included:
 We also used correlation analysis to identify important predictors and removed overlapping variables to reduce multicollinearity.
 
 The final model used 15 predictors.
-
-### Correlation Analysis
-
-![Correlation Heatmap](./Screenshots/02_correlation_heatmap.png..png)
 
 ## Machine Learning Models
 
