@@ -150,21 +150,6 @@ Waterfront access was associated with a substantial increase in predicted house 
 
 Random Forest produced a lower validation MAE than Multiple Linear Regression, suggesting that more complex relationships between property characteristics can improve predictions.
 
-## What I Learned
-
-This project helped me understand how machine learning can be used to solve real business problems.
-
-I gained practical experience in:
-
-- Exploring and cleaning datasets using Python.
-- Creating and selecting features.
-- Building regression models.
-- Evaluating model performance.
-- Comparing different machine learning approaches.
-- Interpreting results to support business decisions.
-
-The project also helped me understand the importance of balancing prediction accuracy with model interpretability.
-
 ## Author
 
 Moksha Ramchetty
